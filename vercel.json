@@ -1,0 +1,53 @@
+{
+  "routes": [
+    {
+      "src": "/1",
+      "dest": "/file1.slx",
+      "headers": {
+        "Content-Disposition": "attachment"
+      }
+    },
+    {
+      "src": "/2",
+      "dest": "/file2.slx",
+      "headers": {
+        "Content-Disposition": "attachment"
+      }
+    },
+    {
+      "src": "/3",
+      "dest": "/file3.slx",
+      "headers": {
+        "Content-Disposition": "attachment"
+      }
+    },
+    {
+      "src": "/4",
+      "dest": "/file4.slx",
+      "headers": {
+        "Content-Disposition": "attachment"
+      }
+    },
+    {
+      "src": "/5",
+      "dest": "/file5.slx",
+      "headers": {
+        "Content-Disposition": "attachment"
+      }
+    },
+    {
+      "src": "/6",
+      "dest": "/file6.slx",
+      "headers": {
+        "Content-Disposition": "attachment"
+      }
+    },
+    {
+      "src": "/7",
+      "dest": "/file7.slx",
+      "headers": {
+        "Content-Disposition": "attachment"
+      }
+    }
+  ]
+}
